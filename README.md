@@ -1,9 +1,9 @@
-### QA Engineer
+###👋 Hi, There!
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kylejeon83@gmail.com)](mailto:kylejeon83@gmail.com)
 
-### Skills
+### 💪 Skills
 ##### Languages
 ![Pyhton Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Selenium Badge](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white)
 ##### Tools
