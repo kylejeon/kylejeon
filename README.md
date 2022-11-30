@@ -1,5 +1,5 @@
 ### QA Engineer
-
+1
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kylejeon83@gmail.com)](mailto:kylejeon83@gmail.com)
 
 ### Skills
